@@ -1,5 +1,5 @@
 # Classification_with_Neural_Net
-The three assignments are part of a course.
+The three assignments are part of a course.                                                                                                                 
 Part_1:
 It is a simple logistic regression classifier to classify cats vs non-cats images. The test accuracy of the model is 68%. Maybe some overfitting is happening.
 
